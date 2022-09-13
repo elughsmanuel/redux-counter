@@ -38,3 +38,5 @@ const Counter = () => {
 };
 
 export default Counter;
+
+// VANILLA REDUX
